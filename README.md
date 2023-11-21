@@ -13,4 +13,5 @@ I learn a lot og stuff related to data science skills This bootcamp
 - Data Visualization
 - Essential Statistics
 - Essential Machine Learning for Data Analyst
-- 
+
+You Can Find me on 
